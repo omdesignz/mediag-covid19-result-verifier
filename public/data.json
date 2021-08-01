@@ -1,0 +1,28 @@
+{
+    "PASSAPORTE": "",
+    "NOME_UTENTE": "TESTE DA CONFIDENTIA",
+    "SNS_UTENTE": "123456789",
+    "CARTAO_CIDADAO_UTENTE": "987654321",
+    "DSG_LABORATORIO": "Laboratório de Teste",
+    "NIF_UTENTE": "123321123",
+    "AMOSTRA": "LL1234",
+    "CHV_EPISODIO": 123456,
+    "ANALISES": [{
+        "COD_PARAMETRO": 123,
+        "SINAVE_ID": "11412233",
+        "ANALISE": "Pesquisa de Coronavirus - COVID-19 [PCR]",
+        "METODO": "PCR",
+        "SINAVE_RES": "N",
+        "COD_ANALISE": "COV2",
+        "DATA_EXPIRADO": "2021-06-18T22:21:41.000+01:00",
+        "CHV_ANALISE": 321,
+        "DATA_COLHEITA": "2021-06-14T15:46:00.000+01:00",
+        "DATA_RESULTADO": "2021-06-14T22:21:41.000+01:00",
+        "PARAMETRO": "Coronavírus [SARS-CoV-2]",
+        "RESULTADO": "Negativo"
+    }],
+    "RETURN_STATUS": {
+        "STATUS": 1,
+        "ERRO": ""
+    }
+}
